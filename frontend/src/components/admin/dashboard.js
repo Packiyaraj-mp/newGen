@@ -9,7 +9,7 @@ export default function Dashboard(){
        return(
         <Fragment>
             <Header/>
-            <div className="dashBoard-container container-fluid ms-0 p-0 bg-success ">
+            <div className="dashBoard-container container-fluid w-100 m-0 p-0 bg-success ">
                 <div className="row bg-white">
                 <div className="sideBar-box col-12 col-md-2 ">
                 <nav id="sidebar">
